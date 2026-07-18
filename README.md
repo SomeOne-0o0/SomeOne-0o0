@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 
 ###
-<img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/riseup.gif?raw=true" width="60"> <em><b>Tech nerd. Security curious. Always up for connecting with new people.</b>  Just say hi — I'm friendlier than my terminal </b> :)</em>
+<img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/riseup.gif?raw=true" width="60"> <em><b>Tech nerd.  &nbsp; Always up for connecting with new people.</b>  Just say hi — I'm friendlier than my terminal </b> :)</em>
 
 
 
