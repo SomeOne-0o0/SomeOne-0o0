@@ -52,3 +52,28 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+###
+<h2> I'm Tirtha Roy! <img src= "https://github.com/SomeOne-0o0/hosted_images/blob/main/hi_infinite_loop.gif?raw=true" width="50">></h2>
+
+
+
+###
+### <img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/Cat%20Space%20Sticker.gif?raw=true" width="50"> A little more about me...  
+
+-  <img alt="GIF" src="https://github.com/SomeOne-0o0/hosted_images/blob/main/forREADME/Developer.gif?raw=true" width="25" /> &nbsp; I’m currently learning **Computer Networking**. <img align="right" src="https://github.com/SomeOne-0o0/hosted_images/blob/main/cat_transparent-2.gif?raw=true" alt="GIF" width="25%" /><br>
+- <img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/forREADME/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux, Terminal, CLI tools, Automation, Raspberry Pi & IoT**. <br>
+- <img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/forREADME/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **AI**, Git, Linux, **Cybersecurity**, Developer Tools, Roadmaps or any of **my projects**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn or Instagram: **[Tirtha Roy](https://www.linkedin.com/in/-tirtha-roy/)** or **[angkan.roy
+](https://www.instagram.com/angkan.roy/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/forREADME/lightning.gif?raw=true" width="15" />&nbsp;&nbsp;&nbsp;Fun fact: I'm **obsessed with organizing knowledge**—my **Notion workspace** is basically my second brain.<br>
+
+<!--
+-->
+</table> <br clear="right" /> <hr> 
+
+
+###
+<img src="https://github.com/SomeOne-0o0/hosted_images/blob/main/riseup.gif?raw=true" width="60"> <em><b>Tech nerd. Security curious. Always up for connecting with new people.</b>  Just say hi — I'm friendlier than my terminal </b> :)</em>
+
+
+
